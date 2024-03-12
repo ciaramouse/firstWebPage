@@ -1,0 +1,23 @@
+body {
+  background-color:violet;
+  font: verdana;
+  color:lightpink;
+  background:yellow;
+}
+
+h1 {
+  color:aliceblue;
+  background-color:antiquewhite;
+  font-size:18px;
+  font-weight: bold;
+}
+.circle {
+  border-radius: 9999px;
+  background-color: pink;
+  width: 100px;
+  height: 100px;
+  color: black;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
